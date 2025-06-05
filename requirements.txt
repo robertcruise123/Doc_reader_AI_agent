@@ -2,3 +2,4 @@ streamlit
 together
 pypdf
 tiktoken
+arxiv
